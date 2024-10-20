@@ -1,6 +1,6 @@
 bmp2nes gfx/sprites/rockman/rockman.bmp
 bmp2nes gfx/sprites/weapons/charge_shot.bmp
-bmp2nes gfx/sprites/bar/bar_vertical.bmp
+bmp2nes gfx/sprites/bars/bar_vertical.bmp
 bmp2nes gfx/sprites/weapons/rock_buster.bmp
 bmp2nes gfx/sprites/capsules/small_weapon_capsule.bmp
 bmp2nes gfx/sprites/tanks/e_tank.bmp
