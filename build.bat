@@ -13,9 +13,10 @@ bmp2nes gfx/sprites/ready.bmp
 bmp2nes gfx/sprites/tanks/blank_tank.bmp
 bmp2nes gfx/sprites/rockman/pow.bmp
 bmp2nes gfx/sprites/rockman/jet.bmp
-bmp2nes gfx/sprites/menu/animations/rockman_to_jet.bmp
-bmp2nes gfx/sprites/menu/animations/rockman_to_pow.bmp
-bmp2nes gfx/sprites/menu/animations/jet_to_pow.bmp
-bmp2nes gfx/sprites/menu/animations/pow_to_jet.bmp
+bmp2nes gfx/sprites/menus/animations/rockman_to_jet.bmp
+bmp2nes gfx/sprites/menus/animations/rockman_to_pow.bmp
+bmp2nes gfx/sprites/menus/animations/jet_to_pow.bmp
+bmp2nes gfx/sprites/menus/animations/pow_to_jet.bmp
+bmp2nes gfx/sprites/enemies/rounder_ii.bmp
 asm6 main.asm rm6.nes
 @pause
