@@ -13,5 +13,9 @@ bmp2nes gfx/obj/ready.bmp
 bmp2nes gfx/obj/tank/blank_tank.bmp
 bmp2nes gfx/obj/rm/pow.bmp
 bmp2nes gfx/obj/rm/jet.bmp
+bmp2nes gfx/obj/menu/anim/rm_to_jet.bmp
+bmp2nes gfx/obj/menu/anim/rm_to_pow.bmp
+bmp2nes gfx/obj/menu/anim/jet_to_pow.bmp
+bmp2nes gfx/obj/menu/anim/pow_to_jet.bmp
 asm6 main.asm rm6.nes
 @pause
